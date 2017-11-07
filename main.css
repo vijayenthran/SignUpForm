@@ -58,14 +58,7 @@ a{
   color :white;
 }
 
-.submit{
-  width: 320px;
-  height: 55px;
-  margin-top: 90px;
-  font-size: 20px;
-  color : white;
-  background-color:#66ff66;
-}
+
 
 .submit:hover{
   background-color:#00b300;
@@ -84,4 +77,12 @@ input{
   margin-left: auto;
   margin-right: auto;
   width: 287px;
+}
+
+.submit{
+  width: 320px;
+  height: 55px;
+  margin-top: 90px;
+  color : white;
+  background-color:#66ff66;
 }
